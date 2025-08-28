@@ -60,5 +60,5 @@ Run the Streamlit app:
 streamlit run app.py
 
 🌐 Live Demo
-👉 Click here to try it on Streamlit Cloud
+👉 Click here to try it on git@github.com:KingsleyOdume/Sales-Forecasting-Dashboard.git
 
