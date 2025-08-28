@@ -42,7 +42,7 @@ This project is designed for recruiters, hiring managers, and collaborators to q
 
 1. Clone the repo:
    
-   git clone https://github.com/YOUR_USERNAME/Sales_Forecasting_Dashboard.git
+   git clone git@github.com:KingsleyOdume/Sales-Forecasting-Dashboard.git
    cd Sales_Forecasting_Dashboard
 
 Create & activate a virtual environment:
@@ -60,5 +60,5 @@ Run the Streamlit app:
 streamlit run app.py
 
 🌐 Live Demo
-👉 Click here to try it on git@github.com:KingsleyOdume/Sales-Forecasting-Dashboard.git
+👉 Click here to try it on Streamlit cloud
 
