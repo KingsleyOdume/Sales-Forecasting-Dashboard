@@ -60,5 +60,5 @@ Run the Streamlit app:
 streamlit run app.py
 
 🌐 Live Demo
-👉 Click here to try it on Streamlit cloud
+👉 Click here to try it on [Streamlit cloud](https://sales-forecasting-dashboard-da9cp4w4uxte3mv9vnbre6.streamlit.app)
 
